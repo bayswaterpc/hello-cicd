@@ -3,6 +3,7 @@ fn silly_function() -> i32 {
 }
 
 fn main() {
+    //this passes?
     println!("Hello, ci/cd!");
 }
 
